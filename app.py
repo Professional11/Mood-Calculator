@@ -1,8 +1,8 @@
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-from _tkinter import *
-import _tkinter as tk
+from tkinter import *
+import tkinter as tk
 
 root = Tk()
 root.geometry('350x606')

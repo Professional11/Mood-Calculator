@@ -81,6 +81,6 @@ edna_mode.pack(side = BOTTOM)
 
 root.mainloop()
 
-
+server = app.server
 
 

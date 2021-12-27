@@ -1,4 +1,5 @@
 # from tkinter import *
+import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import tkinter as tk

@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
-from tkinter import *
+# from tkinter import *
 import tkinter as tk
 
 root = Tk()
@@ -83,9 +77,6 @@ edna_mode = Label(root, text='Credits:\nMade by Yunus Pirim', fg='grey', font=('
 edna_mode.pack(side = BOTTOM)
 
 root.mainloop()
-
-
-# In[ ]:
 
 
 

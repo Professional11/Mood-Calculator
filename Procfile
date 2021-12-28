@@ -1,2 +1,1 @@
-web: python MoodCalculator.py
-worker: python MoodCalculator.py
+web: gunicorn app:server

@@ -11,7 +11,7 @@ appscript==1.1.2
 argh==0.26.2
 argon2-cffi==20.1.0
 asn1crypto==1.4.0
-astroid==2.5
+astroid==2.6
 astropy==4.2.1
 async-generator==1.10
 atomicwrites==1.4.0
@@ -165,13 +165,13 @@ prompt-toolkit==3.0.17
 psutil==5.8.0
 ptyprocess==0.7.0
 py==1.10.0
-pycodestyle==2.6.0
+pycodestyle==2.7.0
 pycosat==0.6.3
 pycparser==2.20
 pycurl==7.43.0.6
 pydocstyle==6.0.0
 pyerfa==1.7.3
-pyflakes==2.2.0
+pyflakes==2.3.0
 Pygments==2.8.1
 pyinstaller==4.7
 pyinstaller-hooks-contrib==2021.4
